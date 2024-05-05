@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="rb/src"/>
+	<classpathentry kind="lib" path="itext5-itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="rb/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="rb/dist/lib/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="rb/dist/rb.jar"/>
+	<classpathentry kind="lib" path="rb/lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="rb/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="rb/lib/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="output" path="rb/build/classes"/>
+</classpath>
